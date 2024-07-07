@@ -1,4 +1,4 @@
-# Forecasting Euroleague Game Results
+# Predicting Euroleague Basketball Game Outcomes
 This repository contains two Jupyter notebooks that demonstrate the process of forecasting Euroleague basketball game results using team statistics and Elo ratings.
 
 ## Notebooks
